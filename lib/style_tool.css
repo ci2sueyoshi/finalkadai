@@ -1,0 +1,19 @@
+body {
+    background-image: url(back_img.jpg);
+}
+
+table {
+    width: 1400px;
+    border-collapse: collapse;
+}
+
+table, tr, th, td {
+    border: solid 1px;
+    padding: 10px;
+    text-align: center;
+}
+
+.size {
+    width: 100px;
+    height: 140px;
+}
